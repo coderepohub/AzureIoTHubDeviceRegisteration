@@ -1,4 +1,4 @@
-# A C# Console Application to register the device in Azure AD
+# A C# Console Application to register the device in Azure IoT Hub
 A simple c# console application to register a device in Azure IoT Hub
 
 - Use this application to register a device into Azure IOT Hub 
